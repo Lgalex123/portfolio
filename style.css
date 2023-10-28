@@ -70,8 +70,11 @@ a {
 
 color:var(--text-color);
 }
-
+.org{
+   margin-top: 90px;
+}
 /* layouts */
+
 .container {
 	max-width: 1000px;
 	width: 90%;
@@ -284,4 +287,11 @@ hr {
 .social a:hover{
 	color: gold;
 	text-decoration: underline;
+}
+.mini-ss{
+    color: var(--text-color);
+    font-size: 1.5rem;
+}
+.mini-big{
+    color:var(--text-color);
 }

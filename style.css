@@ -45,7 +45,6 @@ body {
 	background-color: black;
 	color: white;
 }
-/* common styles */
 img {
 	width: 100%;
 }
@@ -129,31 +128,12 @@ img{
 	border-radius: 50%;
 
 }
-/* .profile_name_firstName {
-	color: white;
-	font-weight: 200;
-	font-size:4rem;
-	text-transform: uppercase;
-	display: block;
-	margin-bottom: -0.8rem; */
-/* } */
-/* .profile_name_lastName {
-	color: var(--primary-color);
-	font-weight: 700;
-	font-size: 5rem;
-	text-transform: uppercase;
-	display: block;
-} */
-/* .g-ex-22 p{
-	color:red;
-	margin-top: 2-5rem;
-} */
+
 .name{
 	font-size: 7rem;
 }
 li{
 	margin-top: 2.5rem;
-	list-style: none;
 	font-size: 1.5rem;
 }
 .devinfo {
@@ -219,11 +199,10 @@ font-size: 1.5rem;
 	margin-top: 2rem;
 }
 
-/* awards */
+
 .awards_item {
 	margin-top: 2rem;
 }
-/* Interests */
 .interest_items {
 	margin-top: 2rem;
 	display: flex;

@@ -26,6 +26,16 @@
 		flex-direction: column;
 	}
 }
+@media(max-width:300px){
+	p{
+		padding:0 1.5rem;
+	}
+	.Img{
+		position: relative;
+		right: 2rem;
+		background-color: red;
+	}
+}
 
 @media only screen and (max-width: 768px) {
 	.container {

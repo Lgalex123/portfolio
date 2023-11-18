@@ -26,14 +26,16 @@
 		flex-direction: column;
 	}
 }
-@media(max-width:300px){
+@media(max-width:301px){
 	p{
-		padding:0 1.5rem;
+		padding:0 0.5rem;
 	}
 	.Img{
 		position: relative;
 		right: 2rem;
 		background-color: red;
+		min-height: 200px;
+		min-width: 200px;
 	}
 }
 

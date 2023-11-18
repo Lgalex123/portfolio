@@ -36,3 +36,12 @@
 	}
 }
 
+@media(max-width:500px){
+.name{
+	font-size: 2rem;
+}
+.prename{
+	font-size: 5rem;
+}
+}
+
